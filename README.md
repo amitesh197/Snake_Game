@@ -4,7 +4,7 @@
 
 ### Use of the Project:
 
-<p>The Snake Game 🐍 is to be played between HUMAN and COMPUTER</p>
+<p>The Snake Game 🐍 is to be played between Human and Computer</p>
 
 <h3>Used Technologies</h3>
 <ul>
